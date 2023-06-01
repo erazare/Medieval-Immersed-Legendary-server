@@ -1,0 +1,13 @@
+{
+  "wyvernSpawnWeight": 2,
+  "moleclawSpawnWeight": 500,
+  "allowDragonGriefing": "ALL",
+  "blockDropChance": 70,
+  "disableNamedTextures": false,
+  "cameraDistanceOffset": 2.0,
+  "cameraVerticalOffset": 0.0,
+  "cameraHorizontalOffset": -1.5,
+  "enableCameraOffset": true,
+  "enableCrosshair": true,
+  "autoThirdPerson": true
+}

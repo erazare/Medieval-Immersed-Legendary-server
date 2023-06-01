@@ -1,0 +1,389 @@
+{
+  "performVersionCheck": true,
+  "origins": {
+    "digs_dnd_origins:dragonborn/green": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/green/ability_score_increase": true,
+      "digs_dnd_origins:dragonborn/green/size": true,
+      "digs_dnd_origins:dragonborn/green/breath_weapon": true,
+      "digs_dnd_origins:dragonborn/green/damage_resistance": true,
+      "digs_dnd_origins:dragonborn/green/humid_habitat": true,
+      "digs_dnd_origins:dragonborn/green/scales": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:variant_human/feats/skilled": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/skilled": true
+    },
+    "digs_dnd_origins:variant_human/feats/sentinel": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/sentinel": true
+    },
+    "origins:elytrian": {
+      "enabled": false,
+      "origins:elytra": true,
+      "origins:launch_into_air": true,
+      "origins:aerial_combatant": true,
+      "origins:light_armor": true,
+      "origins:claustrophobia": true,
+      "origins:more_kinetic_damage": true
+    },
+    "digs_dnd_origins:variant_human/feats/charger": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/charger": true
+    },
+    "digs_dnd_origins:variant_human/feats/moderately_armored": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/moderately_armored": true
+    },
+    "digs_dnd_origins:elf/high": {
+      "enabled": true,
+      "digs_dnd_origins:elf/high/size": true,
+      "digs_dnd_origins:elf/high/darkvision": true,
+      "digs_dnd_origins:elf/high/trance": true,
+      "digs_dnd_origins:elf/high/elf_weapon_training": true,
+      "digs_dnd_origins:elf/high/cantrip": true,
+      "digs_dnd_origins:elf/high/ability_score_increase": true
+    },
+    "digs_dnd_origins:gnome/rock": {
+      "enabled": true,
+      "digs_dnd_origins:gnome/rock/size": true,
+      "digs_dnd_origins:gnome/rock/speed": true,
+      "digs_dnd_origins:gnome/rock/darkvision": true,
+      "digs_dnd_origins:gnome/rock/tinker": true
+    },
+    "origins:blazeborn": {
+      "enabled": false,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:burning_wrath": true,
+      "origins:hotblooded": true,
+      "origins:water_vulnerability": true,
+      "origins:flame_particles": true,
+      "origins:damage_from_snowballs": true,
+      "origins:damage_from_potions": true
+    },
+    "digs_dnd_origins:dragonborn/brass": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/brass/ability_score_increase": true,
+      "digs_dnd_origins:dragonborn/brass/size": true,
+      "digs_dnd_origins:dragonborn/brass/breath_weapon": true,
+      "digs_dnd_origins:dragonborn/brass/damage_resistance": true,
+      "digs_dnd_origins:dragonborn/brass/arid_habitat": true,
+      "digs_dnd_origins:dragonborn/brass/scales": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:half-elf/skills/nature": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/nature": true
+    },
+    "digs_dnd_origins:half-elf/skills/arcana": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/arcana": true
+    },
+    "digs_dnd_origins:half-elf/skills/stealth": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/stealth": true
+    },
+    "digs_dnd_origins:half-elf/skills/athletics": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/athletics": true
+    },
+    "digs_dnd_origins:dragonborn/red": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/red/ability_score_increase": true,
+      "digs_dnd_origins:dragonborn/red/size": true,
+      "digs_dnd_origins:dragonborn/red/breath_weapon": true,
+      "digs_dnd_origins:dragonborn/red/damage_resistance": true,
+      "digs_dnd_origins:dragonborn/red/molten_habitat": true,
+      "digs_dnd_origins:dragonborn/red/scales": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:dwarf": {
+      "enabled": true,
+      "digs_dnd_origins:dwarf/description_hill": true,
+      "digs_dnd_origins:dwarf/description_mountain": true
+    },
+    "digs_dnd_origins:elf/cantrips/lightning_lure": {
+      "enabled": true,
+      "digs_dnd_origins:elf/high/cantrips/lightning_lure": true
+    },
+    "digs_dnd_origins:dragonborn": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/description_black": true,
+      "digs_dnd_origins:dragonborn/description_blue": true,
+      "digs_dnd_origins:dragonborn/description_brass": true,
+      "digs_dnd_origins:dragonborn/description_green": true,
+      "digs_dnd_origins:dragonborn/description_red": true,
+      "digs_dnd_origins:dragonborn/description_white": true
+    },
+    "digs_dnd_origins:elf": {
+      "enabled": true,
+      "digs_dnd_origins:elf/description_high": true,
+      "digs_dnd_origins:elf/description_wood": true,
+      "digs_dnd_origins:elf/description_dark": true
+    },
+    "digs_dnd_origins:gnome/forest": {
+      "enabled": true,
+      "digs_dnd_origins:gnome/forest/size": true,
+      "digs_dnd_origins:gnome/forest/speed": true,
+      "digs_dnd_origins:gnome/forest/darkvision": true,
+      "digs_dnd_origins:gnome/forest/speak_with_small_beasts": true
+    },
+    "digs_dnd_origins:half-elf/skills/medicine": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/medicine": true
+    },
+    "digs_dnd_origins:half-elf/skills/animal_handling": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/animal_handling": true
+    },
+    "digs_dnd_origins:half-elf": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/ability_score_increase": true,
+      "digs_dnd_origins:half-elf/size": true,
+      "digs_dnd_origins:half-elf/darkvision": true,
+      "digs_dnd_origins:half-elf/skill_versatility": true
+    },
+    "digs_dnd_origins:elf/dark": {
+      "enabled": true,
+      "digs_dnd_origins:elf/dark/size": true,
+      "digs_dnd_origins:elf/dark/superior_darkvision": true,
+      "digs_dnd_origins:elf/dark/trance": true,
+      "digs_dnd_origins:elf/dark/sunlight_sensitivity": true,
+      "digs_dnd_origins:elf/dark/drow_magic": true,
+      "digs_dnd_origins:elf/dark/faerie_fire": true,
+      "digs_dnd_origins:elf/dark/darkness": true,
+      "digs_dnd_origins:elf/dark/drow_weapon_training": true,
+      "digs_dnd_origins:elf/dark/ability_score_increase": true
+    },
+    "digs_dnd_origins:variant_human": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/skills": true,
+      "digs_dnd_origins:variant_human/feat": true
+    },
+    "origins:enderian": {
+      "enabled": false,
+      "origins:throw_ender_pearl": true,
+      "origins:water_vulnerability": true,
+      "origins:pumpkin_hate": true,
+      "origins:extra_reach": true,
+      "origins:ender_particles": true,
+      "origins:damage_from_potions": true
+    },
+    "origins:feline": {
+      "enabled": false,
+      "origins:fall_immunity": true,
+      "origins:sprint_jump": true,
+      "origins:velvet_paws": true,
+      "origins:nine_lives": true,
+      "origins:weak_arms": true,
+      "origins:scare_creepers": true,
+      "origins:cat_vision": true
+    },
+    "digs_dnd_origins:dwarf/mountain": {
+      "enabled": true,
+      "digs_dnd_origins:dwarf/mountain/size": true,
+      "digs_dnd_origins:dwarf/mountain/speed": true,
+      "digs_dnd_origins:dwarf/mountain/darkvision": true,
+      "digs_dnd_origins:dwarf/mountain/dwarven_resilience": true,
+      "digs_dnd_origins:dwarf/mountain/dwarven_combat_training": true,
+      "digs_dnd_origins:dwarf/mountain/dwarven_armor_training": true,
+      "digs_dnd_origins:dwarf/hill/tool_proficiency": true
+    },
+    "digs_dnd_origins:halfling/lightfoot": {
+      "enabled": true,
+      "digs_dnd_origins:halfling/lightfoot/size": true,
+      "digs_dnd_origins:halfling/lightfoot/speed": true,
+      "digs_dnd_origins:halfling/lightfoot/lucky": true,
+      "digs_dnd_origins:halfling/lightfoot/halfling_nimbleness": true,
+      "digs_dnd_origins:halfling/lightfoot/naturally_stealthy": true
+    },
+    "digs_dnd_origins:dragonborn/white": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/white/ability_score_increase": true,
+      "digs_dnd_origins:dragonborn/white/size": true,
+      "digs_dnd_origins:dragonborn/white/breath_weapon": true,
+      "digs_dnd_origins:dragonborn/white/damage_resistance": true,
+      "digs_dnd_origins:dragonborn/white/arctic_habitat": true,
+      "digs_dnd_origins:dragonborn/white/scales": true,
+      "origins:more_exhaustion": true
+    },
+    "origins:phantom": {
+      "enabled": false,
+      "origins:phantomize": true,
+      "origins:translucent": true,
+      "origins:phasing": true,
+      "origins:invisibility": true,
+      "origins:burn_in_daylight": true,
+      "origins:hunger_over_time": true,
+      "origins:fragile": true,
+      "origins:phantomize_overlay": true
+    },
+    "digs_dnd_origins:variant_human/feats/skulker": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/skulker": true
+    },
+    "origins:avian": {
+      "enabled": false,
+      "origins:slow_falling": true,
+      "origins:fresh_air": true,
+      "origins:like_air": true,
+      "origins:tailwind": true,
+      "origins:lay_eggs": true,
+      "origins:vegetarian": true
+    },
+    "digs_dnd_origins:elf/cantrips/ray_of_frost": {
+      "enabled": true,
+      "digs_dnd_origins:elf/high/cantrips/ray_of_frost": true
+    },
+    "digs_dnd_origins:variant_human/feats/heavily_armored": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/heavily_armored": true
+    },
+    "digs_dnd_origins:half-elf/skills/sleight_of_hand": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/sleight_of_hand": true
+    },
+    "digs_dnd_origins:dragonborn/blue": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/blue/ability_score_increase": true,
+      "digs_dnd_origins:dragonborn/blue/size": true,
+      "digs_dnd_origins:dragonborn/blue/breath_weapon": true,
+      "digs_dnd_origins:dragonborn/blue/damage_resistance": true,
+      "digs_dnd_origins:dragonborn/blue/arid_habitat": true,
+      "digs_dnd_origins:dragonborn/blue/scales": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:variant_human/feats/mobile": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/mobile": true
+    },
+    "digs_dnd_origins:dragonborn/black": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/black/ability_score_increase": true,
+      "digs_dnd_origins:dragonborn/black/size": true,
+      "digs_dnd_origins:dragonborn/black/breath_weapon": true,
+      "digs_dnd_origins:dragonborn/black/damage_resistance": true,
+      "digs_dnd_origins:dragonborn/black/humid_habitat": true,
+      "digs_dnd_origins:dragonborn/black/scales": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:gnome": {
+      "enabled": true,
+      "digs_dnd_origins:gnome/description_deep": true,
+      "digs_dnd_origins:gnome/description_forest": true,
+      "digs_dnd_origins:gnome/description_rock": true
+    },
+    "digs_dnd_origins:dwarf/hill": {
+      "enabled": true,
+      "digs_dnd_origins:dwarf/hill/size": true,
+      "digs_dnd_origins:dwarf/hill/speed": true,
+      "digs_dnd_origins:dwarf/hill/darkvision": true,
+      "digs_dnd_origins:dwarf/hill/dwarven_resilience": true,
+      "digs_dnd_origins:dwarf/hill/dwarven_combat_training": true,
+      "digs_dnd_origins:dwarf/hill/dwarven_toughness": true,
+      "digs_dnd_origins:dwarf/hill/tool_proficiency": true
+    },
+    "origins:human": {
+      "enabled": false
+    },
+    "digs_dnd_origins:variant_human/feats/lightly_armored": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/lightly_armored": true
+    },
+    "digs_dnd_origins:gnome/deep": {
+      "enabled": true,
+      "digs_dnd_origins:gnome/deep/size": true,
+      "digs_dnd_origins:gnome/deep/speed": true,
+      "digs_dnd_origins:gnome/deep/superior_darkvision": true,
+      "digs_dnd_origins:gnome/deep/stone_camouflage": true
+    },
+    "digs_dnd_origins:halfling/stout": {
+      "enabled": true,
+      "digs_dnd_origins:halfling/stout/size": true,
+      "digs_dnd_origins:halfling/stout/speed": true,
+      "digs_dnd_origins:halfling/stout/lucky": true,
+      "digs_dnd_origins:halfling/stout/halfling_nimbleness": true,
+      "digs_dnd_origins:halfling/stout/stout_resilience": true
+    },
+    "digs_dnd_origins:elf/cantrips/poison_spray": {
+      "enabled": true,
+      "digs_dnd_origins:elf/high/cantrips/poison_spray": true
+    },
+    "origins:shulk": {
+      "enabled": false,
+      "origins:shulker_inventory": true,
+      "origins:natural_armor": true,
+      "origins:strong_arms": true,
+      "origins:strong_arms_break_speed": true,
+      "origins:no_shield": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:variant_human/feats/tough": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/tough": true
+    },
+    "origins:merling": {
+      "enabled": false,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "origins:arachnid": {
+      "enabled": false,
+      "origins:climbing": true,
+      "origins:master_of_webs": true,
+      "origins:carnivore": true,
+      "origins:fragile": true,
+      "origins:arthropod": true
+    },
+    "digs_dnd_origins:half-elf/skills/survival": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/survival": true
+    },
+    "digs_dnd_origins:half-orc": {
+      "enabled": true,
+      "digs_dnd_origins:half-orc/size": true,
+      "digs_dnd_origins:half-orc/darkvision": true,
+      "digs_dnd_origins:half-orc/menacing": true,
+      "digs_dnd_origins:half-orc/relentless_endurance": true,
+      "digs_dnd_origins:half-orc/savage_attacks": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:halfling": {
+      "enabled": true,
+      "digs_dnd_origins:halfling/description_lightfoot": true,
+      "digs_dnd_origins:halfling/description_stout": true
+    },
+    "digs_dnd_origins:tiefling": {
+      "enabled": true,
+      "digs_dnd_origins:tiefling/darkvision": true,
+      "digs_dnd_origins:tiefling/hellish_resistance": true,
+      "digs_dnd_origins:tiefling/infernal_legacy": true,
+      "digs_dnd_origins:tiefling/hellish_rebuke": true,
+      "digs_dnd_origins:tiefling/darkness": true,
+      "digs_dnd_origins:tiefling/feared": true,
+      "digs_dnd_origins:tiefling/horns": true,
+      "digs_dnd_origins:tiefling/ability_score_increase": true
+    },
+    "digs_dnd_origins:elf/cantrips/firebolt": {
+      "enabled": true,
+      "digs_dnd_origins:elf/high/cantrips/firebolt": true
+    },
+    "digs_dnd_origins:elf/wood": {
+      "enabled": true,
+      "digs_dnd_origins:elf/wood/size": true,
+      "digs_dnd_origins:elf/wood/darkvision": true,
+      "digs_dnd_origins:elf/high/trance": true,
+      "digs_dnd_origins:elf/wood/elf_weapon_training": true,
+      "digs_dnd_origins:elf/wood/fleet_of_foot": true,
+      "digs_dnd_origins:elf/wood/mask_of_the_wild": true
+    }
+  }
+}

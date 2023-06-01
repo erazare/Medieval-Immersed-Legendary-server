@@ -1,0 +1,8 @@
+If you are using this server pack on a managed server, meaning you can not execute scripts, please use the fabric-server-launcher.jar instead of the fabric-server-launch.jar. Note the extra "er" at the end of "launcher".
+This is the improved Fabric Server Launcher, which will take care of downloading and installing the Minecraft server and any and all libraries needed for running the Fabric server.
+
+The downside of this method is the occasional incompatibility of mods with the Fabric version, as the new Fabric Server Launcher always uses the latest available Fabric version.
+If a mod is incompatible with said latest Fabric version, contact the mod-author and ask them to remedy the situation.
+The official Fabric Discord had the following to add to this:
+    Fabric loader however is cross version, so unless there is a mod incompatibility (which usually involves the mod being broken / using non-api internals)
+    there is no good reason to use anything but the latest. I.e. the latest loader on any Minecraft version works with the new server launcher.
