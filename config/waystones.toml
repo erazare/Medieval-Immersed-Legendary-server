@@ -45,7 +45,7 @@ dimensionDenyList = []
 nameGenerationMode = "PRESET_FIRST"
 customWaystoneNames = []
 spawnInVillages = true
-forceSpawnInVillages = false
+forceSpawnInVillages = true
 [client]
 disableTextGlow = false
 disableParticles = false
